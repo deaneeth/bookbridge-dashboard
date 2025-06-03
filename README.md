@@ -144,3 +144,5 @@ We welcome contributions! Please fork the repo, open a pull request, and follow 
 ## 📬 Contact
 Have questions or suggestions?
 Feel free to reach out via issues or contact the maintainers via GitHub.
+
+> Made with ❤️ for the book reading community
