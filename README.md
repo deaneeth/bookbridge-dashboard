@@ -2,7 +2,7 @@
 
 > **A secure, community-driven used book marketplace**  
 
-![BookBridge Dashboard Banner](assets\bookbridge-dashboard.png)
+![BookBridge Dashboard Banner](./assets/bookbridge-dashboard.png)
 
 ---
 
@@ -29,7 +29,7 @@
 
 | Page               | Preview |
 |--------------------|---------|
-| Home               | ![Home](./assets/bookbridge-home.mp4) |
+| Home               | ![Home](./assets/bookbridge-dashboard.png) |
 | Browse Books       | ![Browse](./assets/bookbridge-browse.png) |
 | Book Detail        | ![Book](./assets/bookbridge-book-details.png) |
 | Chat Interface     | ![Chat](./assets/bookbridge-chat.png) |
