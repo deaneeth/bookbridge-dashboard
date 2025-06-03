@@ -4,6 +4,12 @@
 
 ![BookBridge Dashboard Banner](./assets/bookbridge-dashboard.png)
 
+
+[![Build Status](https://github.com/VirajNuge/bookbridge/workflows/CI/badge.svg)](https://github.com/VirajNuge/bookbridge/actions)
+[![Dependencies](https://img.shields.io/david/VirajNuge/bookbridge)](https://david-dm.org/VirajNuge/bookbridge)
+[![Code Quality](https://img.shields.io/codeclimate/maintainability/VirajNuge/bookbridge)](https://codeclimate.com/github/VirajNuge/bookbridge)
+[![Contributors](https://img.shields.io/github/contributors/VirajNuge/bookbridge)](https://github.com/VirajNuge/bookbridge/graphs/contributors)
+
 ---
 
 ## 🚀 Overview
