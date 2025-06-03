@@ -2,7 +2,7 @@
 
 > **A secure, community-driven used book marketplace**  
 
-![BookBridge Dashboard Banner](./assets/dashboard-banner.png)
+![BookBridge Dashboard Banner](assets\bookbridge-dashboard.png)
 
 ---
 
@@ -29,12 +29,11 @@
 
 | Page               | Preview |
 |--------------------|---------|
-| Home               | ![Home](./assets/home.png) |
-| Browse Books       | ![Browse](./assets/browse.png) |
-| Book Detail        | ![Book](./assets/book.png) |
-| Chat Interface     | ![Chat](./assets/chat.png) |
-| Seller Dashboard   | ![Dashboard](./assets/seller-dashboard.png) |
-| Admin Moderation   | ![Admin](./assets/admin.png) |
+| Home               | ![Home](./assets/bookbridge-home.mp4) |
+| Browse Books       | ![Browse](./assets/bookbridge-browse.png) |
+| Book Detail        | ![Book](./assets/bookbridge-book-details.png) |
+| Chat Interface     | ![Chat](./assets/bookbridge-chat.png) |
+| Seller Dashboard   | ![Dashboard](./assets/bookbridge-seller-dashboard.png) |
 
 ---
 
@@ -68,7 +67,7 @@ BookBridge was tested extensively using a range of methodologies:
 ```bash
 # 1. Clone the repository
 git clone [https://github.com/deaneeth/bookbridge-dashboard]
-cd bookbridge
+cd bookbridge-dashboard
 
 # 2. Install dependencies
 npm install
