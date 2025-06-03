@@ -37,6 +37,28 @@
 
 ---
 
+## 🎥 Video Walkthrough
+
+Check out a complete walkthrough of our homepage:
+
+> **Note**: Due to GitHub's file size limitations, the video needs to be downloaded to view.
+
+> 1. Navigate to [`assets/bookbridge-home.mp4`](./assets/bookbridge-dashboard-guide.mp4)
+> 2. Click "Download" to view the full homepage demonstration
+> 3. Duration: 1:34 minutes
+
+<details>
+<summary>📽️ What's in the video?</summary>
+
+- Complete webpage navigation
+- Search functionality demonstration
+- Real-time book walkthrough
+- User interface interactions
+- Responsive design showcase
+</details>
+
+---
+
 ## 🛠️ Tech Stack
 
 | Layer       | Technology              |
