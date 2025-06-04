@@ -136,10 +136,10 @@ npm run dev
 ---
 
 ## 📄 License
-This project is licensed under the MIT License. See ![LICENSE](LICENSE) for more details.
+This project is licensed under the MIT License. See [LICENSE](LICENSE) for more details.
 
 ## 🤝 Contributing
-We welcome contributions! Please fork the repo, open a pull request, and follow our contribution guidelines in ![CONTRIBUTING.md](CONTRIBUTING.md)
+We welcome contributions! Please fork the repo, open a pull request, and follow our contribution guidelines in [CONTRIBUTING.md](CONTRIBUTING.md)
 
 ## 📬 Contact
 Have questions or suggestions?

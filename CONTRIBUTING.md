@@ -23,7 +23,7 @@ This is a personal project that I maintain in my spare time. While I appreciate 
 
 - 🐛 **Bug Reports**: Found something broken? Let me know!
 - 💡 **Feature Suggestions**: Have an idea? I'd love to hear it!
-- 📝 **Documentation**: Help improve ![README](README.md), comments, or examples
+- 📝 **Documentation**: Help improve [README](README.md), comments, or examples
 - 🔧 **Bug Fixes**: Small fixes are always welcome
 - ✨ **Small Features**: Simple enhancements that fit the project scope
 
@@ -176,7 +176,7 @@ Contributors will be:
 
 ## License
 
-By contributing, you agree that your contributions will be licensed under the same license as this project: ![LICENSE](LICENSE).
+By contributing, you agree that your contributions will be licensed under the same license as this project: [LICENSE](LICENSE).
 
 ---
 
